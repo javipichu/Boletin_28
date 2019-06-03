@@ -7,7 +7,7 @@ package boletin28;
 
 /**
  *
- * @author slorenzorodriguez
+ * @author jalvarezotero
  */
 public class Clase3 extends Clase2 {
       public int result2(){
